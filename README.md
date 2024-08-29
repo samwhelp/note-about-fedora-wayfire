@@ -34,6 +34,7 @@
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
 | [Wayfire 探索筆記](https://samwhelp.github.io/note-about-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-wayfire) |
 | [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
+| [Ultramarine Wayfire 探索筆記](https://samwhelp.github.io/note-about-ultramarine-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-wayfire) |
 
 
 
